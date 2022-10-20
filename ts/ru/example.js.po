@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Generated-By: Serge 1.4\n"
+
+#. title
+#. Page title
+#: File: example.js
+#: ID: 931142413ee7b612bce7a54d40369452
+msgctxt "title"
+msgid "Hello, world!"
+msgstr "Asdfads asdfasd"
+
+#. message
+#. Text that appears below the title
+#: File: example.js
+#: ID: cf10a8c1ef55be6f7b0431ca4fae546f
+msgctxt "message"
+msgid "Let's try the continuous localization approach!"
+msgstr " asdfa v,m,dsf"
+
+#. sunona
+#: File: example.js
+#: ID: b678e85f7684c5f79c77df9d1c962c69
+msgctxt "sunona"
+msgid "Helsingfors"
+msgstr ""
