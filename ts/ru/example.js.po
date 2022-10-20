@@ -27,3 +27,10 @@ msgstr " asdfa v,m,dsf"
 msgctxt "sunona"
 msgid "Helsingfors"
 msgstr "Russuan Helsingfors"
+
+#. global
+#: File: example.js
+#: ID: 2e661acfeb647be10e826c0fecf368ef
+msgctxt "global"
+msgid "asdfadsf"
+msgstr ""
