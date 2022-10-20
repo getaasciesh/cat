@@ -27,10 +27,3 @@ msgstr "What is up"
 msgctxt "sunona"
 msgid "Helsingfors"
 msgstr "Yyyyy"
-
-#. feature-1
-#: File: example.js
-#: ID: d5dadf4c506ba6ef407089c458d775e3
-msgctxt "feature-1"
-msgid "feature-1 string"
-msgstr ""
