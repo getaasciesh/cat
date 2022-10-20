@@ -22,7 +22,8 @@ sync
             your `Settings > API` page once you sign into
             your Smartcat account.
             */
-            account_id                          12345678-abcd-9876-5432-abcdef012345
+            account_id                          a2dbffbe-6ed2-429b-9789-e4f82832711a
+
 
             /*
             Go to `Settings > API` page in your account,
@@ -30,13 +31,13 @@ sync
             e.g. 'Serge', and the auto-generated secret part
             of the key is what needs to be added here.
             */
-            token                               1_AaBbCcDdEeFfGgHhIiJjKkLlM
+            token                               2_L6xGYe2tquad4UIKLsE25kHWq
 
             # Project to synchronize data with. To get the ID, navigate to the
             # target project and take it from the URL. For example, if the URL is
             # https://us.smartcat.ai/projects/01234567-890a-bcde-f012-34567890abcd/files?documentPage=1
             # then the ID will be 01234567-890a-bcde-f012-34567890abcd
-            project_id                          01234567-890a-bcde-f012-34567890abcd
+            project_id                          ecb5f80f-bbad-4fd5-bd13-538c9100d134
 
             # `--mode=current`   = download any translations, even unconfirmed ones (default).
             # `--mode=confirmed` = download segments at the confirmed stage
@@ -54,15 +55,15 @@ sync
             add_unversioned                     YES
 
             clone_params                        --depth 1
-            email                               l10n@mycompany.com
-            name                                L10N Robot
+            email                               getaasciesh@hotmail.com
+            name                                Asish Bhattarai
 
-            local_path                          data
+            local_path                          .
 
             # Set this parameter to be your Git clone URL. If your repository
             # main branch is not called 'master', you need to specify it
             # explicitly at the end of the URL, like this: #main
-            remote_path                         git@github.com:my-company/my-project.git#main
+            remote_path                         git@github.com:getaasciesh/cat.git#main
         }
     }
 }
